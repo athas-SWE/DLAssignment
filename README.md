@@ -20,4 +20,14 @@ The Kaggle platform is where the data set is gathered. Different techniques are 
 
 Subanista  - ANN Architecture using Fashion MNIST Dataset | Athas Ahamed - CNN Architecture using Fashion MNIST Dataset | Anushanth - Transfer Learning with VGG19 Architecture using Fashion MNIST Dataset |Sajith  - KNN Architecture using Fashion MNIST Dataset
 
+Links:
+
+Dataset Link : https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
+Repository Link: https://github.com/Subanista/DLAssignment
+
+YouTube Link: 
+
+
+
 Technologies: 
