@@ -7,7 +7,7 @@ Group Member Details:
 |-------------|---------------------|----------------|
 | Athas ARA   |  Athas-SWE          | IT20301422     |
 | Sajith R.M. | IT20666088          | IT20666088     |
-| Anushanth R | AnushanthRajendran  | IT20174958     |
+| Anushanth R | Anushanth-92        | IT20174958     |
 | Subanista T |  subanista          | IT20660970     |
 
 Project Description:
