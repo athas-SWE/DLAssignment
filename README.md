@@ -22,11 +22,11 @@ Subanista  - ANN Architecture using Fashion MNIST Dataset | Athas Ahamed - CNN A
 
 Links:
 
-Dataset Link : https://www.kaggle.com/datasets/zalando-research/fashionmnist
+Dataset Link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
 Repository Link: https://github.com/Subanista/DLAssignment
 
-YouTube Link: 
+YouTube Link: https://www.youtube.com/playlist?list=PL5zJL87RFoS9sG3Olio-LfhIY7kC6AwoO 
 
 
 
