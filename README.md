@@ -3,12 +3,12 @@ Deep Learning Group project
 
 Group Member Details:
 
-| Name        | GitHub Username     | Student ID     |
-|-------------|---------------------|----------------|
-| Athas ARA   |  Athas-SWE          | IT20301422     |
-| Sajith R.M. | IT20666088          | IT20666088     |
-| Anushanth R | Anushanth-92        | IT20174958     |
-| Subanista T |  subanista          | IT20660970     |
+| Name         | GitHub Username     | Student ID     |
+|--------------|---------------------|----------------|
+| Ahamed A.R.A |  Athas-SWE          | IT20301422     |
+| Sajith R.M.  | IT20666088          | IT20666088     |
+| Anushanth R  | Anushanth-92        | IT20174958     |
+| Subanista T  |  subanista          | IT20660970     |
 
 Project Description:
 
